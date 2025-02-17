@@ -40,3 +40,11 @@ The java File Handling Utility is a simple yet efficient program designed to per
 > Binary file handling support.
 > GUI for better user experience.
 > Encryption for secure file storage.
+
+
+
+
+
+OUTPUT: ![Image](https://github.com/user-attachments/assets/925c9376-f5ed-48f4-8461-ac9b1e6d74e7)
+
+
